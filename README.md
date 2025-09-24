@@ -3,6 +3,7 @@
 - Una instancia de la clase Fruta podría ser una manzana específica, con un color rojo y un sabor dulce.
 - Una instancia de vehículo puede ser un Automóvil, con color rojo, locomoción por motor de combustión, y comportamientos de encender, frenar y apagar.
 
+#uml
 classDiagram
     class Paciente {
         +idPaciente : int
